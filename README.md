@@ -1,8 +1,7 @@
 # My Profession #
 Technical Writer
-## What type of documents I author? ##
-- User Guides
-- Release Notes
-- API Guides
-- Online Help
-- Feature based articles
+## Skills I'm learning in this session? ##
+- GitHub
+- Generating a static website
+- Jekyll
+- Markdown
