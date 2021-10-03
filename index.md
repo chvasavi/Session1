@@ -1,5 +1,7 @@
 ---
 Author: Vasavi
+Title: Sample Template
+Layout: sample_template
 ---
 
 # What is WhatsApp? 
