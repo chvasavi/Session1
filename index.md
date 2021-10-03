@@ -1,13 +1,13 @@
 ---
-Author:Vasavi
-Title:Sample Template
-Layout: sample_template
+Author: Vasavi
+Title: Sample Template
+layout: sample_template
 ---
 
 # What is WhatsApp? 
 WhatsApp is a free chat app that launched at the dawn of the smartphone era back in 2009. It wasn’t until 2015 that it became the most popular communication app worldwide, but nowadays it’s virtually ubiquitous in most of Europe, Latin America, and the Middle East.
 
-This is a sample written by {{page.Author}}
+This is a sample written by ## {{page.Author}}
 
 ## Is WhatsApp safe and secure? 
 With every message and call end-to-end encrypted by default, WhatsApp is quite secure for virtually all uses. This level of encryption means that not even WhatsApp (or its parent company Facebook) can see the content of your messages, despite what you might hear online.
