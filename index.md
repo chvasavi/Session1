@@ -18,3 +18,5 @@ Still, you should be wary of phishing attempts. Never give your personal informa
 {% include WA_include_File.txt %}
 
 <b> Sample GIF File </b>
+
+{% include SampleGIFImage.gif %}
