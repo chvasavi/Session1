@@ -14,4 +14,7 @@ This is a sample written by <b> {{page.Author}} <b>
 With every message and call end-to-end encrypted by default, WhatsApp is quite secure for virtually all uses. This level of encryption means that not even WhatsApp (or its parent company Facebook) can see the content of your messages, despite what you might hear online.
 
 Still, you should be wary of phishing attempts. Never give your personal information to someone you don’t know, and don’t be afraid to block or report users that you think are trying to scam you. WhatsApp also supports two-step verification in the form of a six-digit PIN.
+
 </div>
+
+{% includes WA_include_File.txt %}
