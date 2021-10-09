@@ -23,7 +23,7 @@ Still, you should be wary of phishing attempts. Never give your personal informa
 
 <b>Display some data from a CSV file </b>
 
-{% for item in site.data.sampleCSVdata %}
+{% for item in site.data.sampleCSVdata.csv %}
 - {{item.Name}}: {{item.Emp ID}}: {{item.Designation}}
 {% endfor %}
 
