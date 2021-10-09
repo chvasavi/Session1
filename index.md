@@ -13,4 +13,8 @@ With every message and call end-to-end encrypted by default, WhatsApp is quite s
 
 Still, you should be wary of phishing attempts. Never give your personal information to someone you don’t know, and don’t be afraid to block or report users that you think are trying to scam you. WhatsApp also supports two-step verification in the form of a six-digit PIN.
 
+<b> Process to update WhatsApp </b>
+
 {% include WA_include_File.txt %}
+
+<b> Sample GIF File </b>
