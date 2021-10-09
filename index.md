@@ -17,4 +17,4 @@ Still, you should be wary of phishing attempts. Never give your personal informa
 
 </div>
 
-{% includes WA_include_File.txt %}
+{% include WA_include_File.txt %}
