@@ -19,7 +19,7 @@ Still, you should be wary of phishing attempts. Never give your personal informa
 
 <b> Sample GIF File </b>
 
-![alttext](SampleGIFImage.gif)
+![alt text](D:\Vasavi Learnings\Docs-as-Code\GitHub-Local\_includes\SampleGIFImage.gif)
 
 <b>Display some data from a CSV file </b>
 
