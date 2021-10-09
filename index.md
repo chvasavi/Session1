@@ -19,6 +19,6 @@ Still, you should be wary of phishing attempts. Never give your personal informa
 
 <b> Sample GIF File </b>
 
-{% include SampleGIFImage.GIF %}
+{% include SampleGIFImage.gif %}
 
 <b>Display some data from a CSV file </b>
