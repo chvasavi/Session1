@@ -19,5 +19,5 @@ Still, you should be wary of phishing attempts. Never give your personal informa
 
 <b> Sample GIF File </b>
 
-![ alttext ](SampleGIFImage.gif)
+![alttext](SampleGIFImage.gif)
 
