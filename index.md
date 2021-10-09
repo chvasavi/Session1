@@ -21,3 +21,9 @@ Still, you should be wary of phishing attempts. Never give your personal informa
 
 ![alttext](SampleGIFImage.gif)
 
+<b>Display some data from a CSV file </b>
+
+{% for item in site.data.sampleCSVdata %}
+- {{item.Name}}: {{item.Emp ID}}: {{item.Designation}}
+{% endfor %}
+
