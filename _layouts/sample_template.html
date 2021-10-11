@@ -1,20 +1,100 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<link rel="stylesheet" type="text/css" href="./assets/css/style.css"/>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    
 </head>
-<title>Vasavi's Page</title>
-<style>
-body {
-  background-image: url("girl-at-desk-writing-animated.gif");
-  background-color: #f7fffe;
-}
-</style>
-  <body>
-    <main>
-      <div>
-        {{content}}
-      </div>
-    </main>  
-  </body>
+<body>
+    
+    <header>
+        <img src="WAlogo.jpg">
+        <nav>
+        <ul class="navbar">
+            <li><a href="#">HOME</a> </li>
+            <lI><a href="#">FEATURES</a></lI>
+            <li><a href="#">DOWNLOAD CENTRE</a></li>
+            <lI><a href="#">CONTACT</a></lI>
+        </ul>
+        </nav>
+        </header>
+   <div class="content"> </div>
+
+<div id="footer">
+<footer>
+    <p>Intense Technologies LTD &trade;</p>
+    
+  </footer>
+  <div>
+    
+</body>
 </html>
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+    background-color: #F9F4F2;
+    background-image: girl-at-desk-writing-animated.gif;
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    padding: 15px;
+}
+
+li,a{
+    font-family:owsald,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: #fefae0;
+    text-decoration: none;
+
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0px 10px ;
+}
+
+.navbar{
+    list-style: none;
+    
+}
+
+.navbar li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.navbar li a{
+    transition: all 0.3s ease 0s;
+    
+}
+
+.navbar li  :hover{
+    color: #006AD0;
+}
+
+.h1 {color: #540250;}
+.h2 {color: #54020A;}
+.content{
+    word-wrap: inherit;
+    color: #02540E;
+    text-align: left;
+    justify-content: left;
+}
+
+#footer {
+    position : absolute;
+    bottom : 0;
+    height : 40px;
+    margin-top : 20px;
+    
+  }
+
+  #footer p {
+      color: blue;
+      text-align: center;
+  }
+
