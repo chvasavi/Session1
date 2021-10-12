@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');*/
 
-* {
+background {
     box-sizing: border-box;
     background-color: #F9F4F2;
     background-image: girl-at-desk-writing-animated.gif;
